@@ -362,7 +362,5 @@ Icons from React Icons
 
 Google OAuth integration
 
-📞 Support
-For support, email support@socialnest.com or open an issue in the repository.
 
-Made with ❤️ by the SocialNest Team
+Made with ❤️ by Nalain Abbas
